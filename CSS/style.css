@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(194, 213, 213);
+  }
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: red;
+    width: 4%;
+  }
+  img{
+    height: 190px;
+    border-color: red;
+    border-width: 5px;
+    border-style: dotted;
+    border-radius: 50%;
+  }
+  h1{
+        color: coral;
+        font-style: italic;
+  }
+  p{
+        color: brown;
+  }
